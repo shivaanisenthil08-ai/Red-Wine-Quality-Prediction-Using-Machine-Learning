@@ -80,3 +80,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ## Conclusion
 
 This project demonstrates the application of data preprocessing, exploratory data analysis, visualization, feature selection, and machine learning classification to the Red Wine Quality dataset.
+
+Author 
+Shivaani S
